@@ -1,4 +1,4 @@
-This is the code for the deposit prediction model
+This is the code repository for the deposit prediction model
 
 1. Create environment
 ```
